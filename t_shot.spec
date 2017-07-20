@@ -4,7 +4,7 @@ block_cipher = None
 
 
 a = Analysis(['t_shot.py'],
-             pathex=['/mnt/c/python/python_game'],
+             pathex=['/mnt/c/Users/yuto.suzuki/tmp/python'],
              binaries=[],
              datas=[],
              hiddenimports=[],
